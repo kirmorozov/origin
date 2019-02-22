@@ -41,8 +41,8 @@ import:
   version: origin-4.0-kubernetes-1.12.4
 
 # openshift second
-- package: github.com/openshift/api
-  version: master
+- package: github.com/ravisantoshgudimetla/api
+  version: add-default-project-nodeselector 
 - package: github.com/openshift/client-go
   version: master
 - package: github.com/openshift/library-go
